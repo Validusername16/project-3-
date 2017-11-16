@@ -1,0 +1,12 @@
+/*This is a temporary css*/
+*{
+    font-family: "Museo Sans 500";
+    background-color: black;
+    position:absolute;
+}
+.image{
+    z-index: 0;
+width:1000px;
+    left:20px;
+    transform: rotate(180deg);
+}
