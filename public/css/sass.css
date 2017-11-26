@@ -1,0 +1,129 @@
+body {
+  font-family: "Museo Sans 500";
+  background-color: black;
+  color: white; }
+
+.mars {
+  position: absolute;
+  width: 900px;
+  transform: rotate(165deg);
+  z-index: 1;
+  top: -250px; }
+
+h1 {
+  font-size: 50px;
+  z-index: 2;
+  position: absolute;
+  top: 30px;
+  left: 370px; }
+
+h2 {
+  position: absolute;
+  left: 380px;
+  z-index: 2;
+  top: 100px; }
+
+.intro {
+  width: 500px;
+  position: absolute;
+  z-index: 2;
+  top: 170px;
+  left: 110px; }
+
+.paragraph-3 {
+  width: 500px;
+  z-index: 2;
+  position: absolute;
+  left: 310px;
+  top: 400px; }
+
+.quote {
+  font-size: 20px;
+  width: 200px;
+  z-index: 2;
+  position: absolute;
+  top: 450px;
+  left: 100px; }
+
+.paragraph-4 {
+  width: 500px;
+  z-index: 2;
+  position: absolute;
+  left: 310px;
+  top: 650px; }
+
+.paragraph-4-2 {
+  width: 500px;
+  z-index: 2;
+  position: absolute;
+  left: 110px;
+  top: 715px; }
+
+h3 {
+  font-size: 15px;
+  font-weight: bold; }
+
+.title-1 {
+  position: absolute;
+  top: 880px;
+  left: 110px; }
+
+.paragraph-5 {
+  width: 500px;
+  position: absolute;
+  top: 910px;
+  left: 110px; }
+
+.title-2 {
+  position: absolute;
+  top: 1320px;
+  left: 110px; }
+
+.paragraph-6 {
+  width: 450px;
+  position: absolute;
+  left: 110px;
+  top: 1350px; }
+
+.geysers {
+  position: absolute;
+  width: 200px;
+  top: 1350px;
+  left: 600px; }
+
+.caption {
+  position: absolute;
+  font-size: 12px;
+  width: 150px;
+  top: 1450px;
+  left: 640px; }
+
+.paragraph-7 {
+  position: absolute;
+  width: 500px;
+  left: 110px;
+  top: 1600px; }
+
+.title-3 {
+  position: absolute;
+  left: 110px;
+  top: 1730px; }
+
+.paragraph-8 {
+  position: absolute;
+  left: 110px;
+  width: 500px;
+  top: 1760px; }
+
+.title-4 {
+  position: absolute;
+  left: 110px;
+  top: 2060px; }
+
+.conclusion {
+  width: 500px;
+  position: absolute;
+  left: 110px;
+  top: 2090px; }
+
+/*# sourceMappingURL=sass.css.map */
